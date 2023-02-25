@@ -1,0 +1,66 @@
+body {
+    background-image: url(Desti/background-destination-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: azure;
+    font-family: Maiandra GD Regular sans;
+}
+hr {
+    margin-right: 90px;
+    width: 50rem;
+}
+.div1 {
+    margin: 0;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.div2 {
+    margin-left: 600px;
+    margin-top: 12.5px;
+    position: absolute;
+}
+.tags {
+    color: azure;
+    font-size: 25px;
+    margin-left: 100px;
+}
+.tag2:hover {
+    text-decoration: underline;
+}
+.d1, .d3, .d5, .d7 {
+    margin: 0;
+    margin-top: 30px;
+    margin-left: 50px;
+    position: absolute;    
+}
+.d2, .d4, .d6, .d8 {
+    margin-left: 159px;
+    margin-top: 350px;
+    position: absolute;
+}
+.moon {
+    height: 20rem;
+}
+.d3 {
+    margin-left: 37rem;
+}
+.d4 {
+    margin-left: 44rem;
+}
+.d5 {
+    margin-left: 70rem;
+}
+.d6 {
+    margin-left: 77.1rem;
+}
+.d7 {
+    margin-top: 27rem;
+    margin-left: 4rem;
+}
+.d8 {
+    margin-top: 46rem;
+}

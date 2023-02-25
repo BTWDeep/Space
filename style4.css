@@ -1,0 +1,55 @@
+body {
+    background-image: url(techno/background-technology-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: 118% 118%;
+    color: azure;
+    font-family: Maiandra GD Regular sans;
+}
+.hr1 {
+    margin-right: 90px;
+    width: 50rem;
+}
+.div1 {
+    margin: 0;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+a {
+    text-decoration: none;
+}
+.div2 {
+    margin-left: 600px;
+    margin-top: 12.5px;
+    position: absolute;
+}
+.tags {
+    color: azure;
+    font-size: 25px;
+    margin-left: 100px;
+}
+h1 {
+    text-align: center;
+}
+.moon {
+    position: absolute;
+    margin-top: 0px;
+    height: 55%;
+    width: 55%;
+    margin-left: 70px;
+    margin-right: 0;
+    margin-top: 10px;
+
+}
+.d1 {
+    margin-top: 0px;
+    margin-left: 373px;
+    width: 50%;
+}
+p {
+    text-align: left;
+    margin-left: 300px;
+    line-height: 2;
+}
+.p1 {
+    width: 20%;
+}

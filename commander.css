@@ -1,0 +1,49 @@
+body {
+    background-image: url(Crew/background-crew-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: azure;
+    font-family: Maiandra GD Regular sans;
+}
+hr {
+    margin-right: 90px;
+    width: 50rem;
+}
+.div1 {
+    margin: 0;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.div2 {
+    margin-left: 600px;
+    margin-top: 12.5px;
+    position: absolute;
+}
+.tags {
+    color: azure;
+    font-size: 25px;
+    margin-left: 100px;
+}
+.moon {
+    height: 500px;
+    margin: 0;
+    margin-left: 130px;
+    float: left;
+}
+.d1 {
+    position: absolute;
+    margin-left: 40rem;
+    margin-top: 4rem;
+}
+p {
+    line-height: 2;
+    width: 70%;
+    font-size: 20px;
+}
+h1 {
+    font-size: 50px;
+}
